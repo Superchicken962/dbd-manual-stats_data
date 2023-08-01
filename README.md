@@ -1,2 +1,3 @@
 # dbd-manual-stats_data
-contains files that are requested to from the local website
+
+This is simply for keeping files that need to be read by the local website.
